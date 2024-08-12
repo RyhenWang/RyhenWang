@@ -1,4 +1,9 @@
 ## Hi there 👋
+I'm currently a member of CHEN Lab in Nation Taiwan University (NTU)
+I'm extremely interested in the field of social neuroscience and currently working my ass off to know more about it 
+📫 How to reach me: 
+email: kdhenry0107@gmail.com
+LinkedIn: Ting-Ruei (Henry) Wang
 
 <!--
 **RyhenWang/RyhenWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
