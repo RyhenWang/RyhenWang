@@ -1,4 +1,4 @@
-### Something about me 👋
+### 👋 Something about me 
 - Currently a member of CHEN Lab in Nation Taiwan University (NTU)
 - Interested in the field of social/ cultural neuroscience and currently working my ass off to know more about it 
 
